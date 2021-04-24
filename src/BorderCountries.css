@@ -1,0 +1,27 @@
+.labels {
+    display: flex;
+    padding: 3px 20px;
+    margin: 4px;
+}
+
+.BorderCountries {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+a {
+    color: black;
+}
+
+.a-dark {
+    color: white;
+}
+
+.neighbour-dark {
+    background-color: hsl(209, 23%, 22%);
+}
+
+.dark {
+    background-color: black;
+    color: white;
+}

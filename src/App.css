@@ -1,0 +1,70 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Nunito Sans', sans-serif;
+}
+
+.App{
+  height: 100vh;
+  font-family: 'Nunito Sans', sans-serif;
+  background-color: hsl(0, 0%, 98%);
+}
+
+body {
+
+  background-color: hsl(0, 0%, 98%);
+}
+
+.header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 30px;
+}
+
+.moon{
+    /* margin-top: 16px; */
+    display: flex;
+    /* flex: 0.1; */
+    justify-content: space-between;
+    align-items: center;
+}
+
+.moon :hover{
+  cursor: pointer;
+}
+
+.search{
+  margin: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.dark-elem {
+  background-color: hsl(209, 23%, 22%);
+  color: white;
+}
+
+.dark-mode {
+  /* background-color:hsl(209, 94%, 52%); */
+  background-color:hsl(207, 26%, 17%);
+  color: white;
+}
+/* 
+- Dark Blue (Dark Mode Elements): hsl(209, 23%, 22%)
+- Very Dark Blue (Dark Mode Background): hsl(207, 26%, 17%)
+- Very Dark Blue (Light Mode Text): hsl(200, 15%, 8%)
+- Dark Gray (Light Mode Input): hsl(0, 0%, 52%)
+- Very Light Gray (Light Mode Background): hsl(0, 0%, 98%)
+- White (Dark Mode Text & Light Mode Elements): hsl(0, 0%, 100%) */
+
+
+@media only screen and (max-width:668px) {
+  .header h1{
+    font-size: medium;
+  }
+
+  /* .moon{} */
+}
