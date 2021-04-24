@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Ankit11234/rest-api-react.git/static/css/main.76ac2bef.chunk.css",
+    "main.js": "/Ankit11234/rest-api-react.git/static/js/main.8e6ac778.chunk.js",
+    "main.js.map": "/Ankit11234/rest-api-react.git/static/js/main.8e6ac778.chunk.js.map",
+    "runtime-main.js": "/Ankit11234/rest-api-react.git/static/js/runtime-main.1d53df99.js",
+    "runtime-main.js.map": "/Ankit11234/rest-api-react.git/static/js/runtime-main.1d53df99.js.map",
+    "static/js/2.a0ba85fb.chunk.js": "/Ankit11234/rest-api-react.git/static/js/2.a0ba85fb.chunk.js",
+    "static/js/2.a0ba85fb.chunk.js.map": "/Ankit11234/rest-api-react.git/static/js/2.a0ba85fb.chunk.js.map",
+    "static/js/3.3c44f7f5.chunk.js": "/Ankit11234/rest-api-react.git/static/js/3.3c44f7f5.chunk.js",
+    "static/js/3.3c44f7f5.chunk.js.map": "/Ankit11234/rest-api-react.git/static/js/3.3c44f7f5.chunk.js.map",
+    "index.html": "/Ankit11234/rest-api-react.git/index.html",
+    "static/css/main.76ac2bef.chunk.css.map": "/Ankit11234/rest-api-react.git/static/css/main.76ac2bef.chunk.css.map",
+    "static/js/2.a0ba85fb.chunk.js.LICENSE.txt": "/Ankit11234/rest-api-react.git/static/js/2.a0ba85fb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d53df99.js",
+    "static/js/2.a0ba85fb.chunk.js",
+    "static/css/main.76ac2bef.chunk.css",
+    "static/js/main.8e6ac778.chunk.js"
+  ]
+}
