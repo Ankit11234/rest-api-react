@@ -27,6 +27,7 @@ body {
     /* margin-top: 16px; */
     display: flex;
     /* flex: 0.1; */
+        cursor: pointer;
     justify-content: space-between;
     align-items: center;
 }

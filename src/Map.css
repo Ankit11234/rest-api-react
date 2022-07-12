@@ -14,6 +14,14 @@
   justify-content: space-evenly;
 }
 
+.coma span:after {
+  content: ", ";
+}
+
+.coma span:last-child:after {
+  content: "";
+}
+
 ::placeholder {
   color: var(--c);
 }
@@ -33,6 +41,10 @@ input, button{
   height: 34px;
 }
 
+.Country{
+    cursor: pointer;
+  
+}
 .searchs{
   padding:18px;
   /* width: 46%; */
@@ -71,6 +83,7 @@ input, button{
 
 .Country > button {
    border: none;
+   cursor: pointer;
    margin: 36px;
    /* background-color: hsl(209, 23%, 22%); */
  }
@@ -140,6 +153,7 @@ img{
 
  .page h3 {
   font-size: small;
+  display: flex;
 }
 
 h3 {
@@ -149,6 +163,7 @@ h3 {
 
 h5 {
   font-weight: 300;
+  margin-top: 5px;
 
 }
 
